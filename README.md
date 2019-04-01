@@ -1,1 +1,1 @@
-This project is intended to create a small database for an hypothetical company to help keep track of the sales, store locations, and product details. It can also help answer some data questions by doing some queries.
+This project is intended to create a small database for a hypothetical company to help keep track of the sales, store locations, and product details. It can also help answer some data questions by doing some queries.
